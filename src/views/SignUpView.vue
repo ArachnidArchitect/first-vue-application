@@ -37,12 +37,12 @@
 </div>
 <div>
     <input type="checkbox" value="sihlando" id="sihlando" v-model="name"    >
-    <label for="sihlando">sihlando</label>
+    <label for="sihlando">sihlandlo</label>
 
 </div>
 <div>
     <input type="checkbox" value="nthando" id="nthando" v-model="name"    >
-    <label for="nthando">Nthando</label>
+    <label for="nthando">Ntando</label>
 
 </div>
     </form>
